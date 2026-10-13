@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.html
+*.csv
+*.json
+dist/
